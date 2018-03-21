@@ -1,6 +1,7 @@
 # Bucketlist
 
-## You can explore this project on (https://bucketlist-a9e72.firebaseapp.com/)
+## You can explore this project on 
+(https://bucketlist-a9e72.firebaseapp.com/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
