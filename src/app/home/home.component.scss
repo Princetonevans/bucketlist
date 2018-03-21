@@ -22,7 +22,7 @@ input.txt {
 }
 
 input.btn {
-  border: 0;
+  border: 1;
   display: block;
   padding: 1em 3em;
   background: #A5F883;
@@ -30,4 +30,8 @@ input.btn {
   margin-bottom: 2em;
   margin-top: 1em;
   cursor:pointer;
+}
+.life-container {
+  background-color: #ADD8E6;
+  padding: 0.5em;
 }
